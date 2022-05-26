@@ -18,6 +18,6 @@
 
 [Video](https://www.youtube.com/watch?v=fRHF9iuTlLU)
 
-Directory: ``helm-charts/webdeploy``
+Directory: ``helm-nginx``
 
 
